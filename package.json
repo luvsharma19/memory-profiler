@@ -7,7 +7,7 @@
     "build": "rimraf -rf dist && cross-env NODE_ENV=production webpack"
   },
   "author": "luv sharma",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "node-memwatch": "^1.0.1"
   },
