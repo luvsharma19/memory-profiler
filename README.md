@@ -16,9 +16,9 @@ Install the node-memory-profiler using the below command:
 
 npm i @luvsharma1931/node-memory-profiler
 
+The module has to be imported in the Node.js application code using a single line import statement.
 ![alt text](https://github.com/luvsharma19/node-memory-profiler/blob/main/img/image1.png?raw=true)
- 
-The module has to be imported in the Node.js application code using a single line import statement. When the Node.js application gets started and comes to running state, the memory profiling also automatically starts running for this application and the module creates three files – memoryStats.txt, memoryLeak.txt, logs.txt at default system location – “C:\node-profiler-logs\”. The module logs an info message in the logs.txt file indicating that memory profiling started successfully. The module writes “heap memory usage” data to the memoryStats.txt file at times just after a garbage collection is run automatically in the Node.js runtime environment. If a memory leak is found by the module, it writes the leak information to memoryLeak.txt file. If any error occurs during the memory profiling process, the module logs the error message to logs.txt file.
+When the Node.js application gets started and comes to running state, the memory profiling also automatically starts running for this application and the module creates three files – memoryStats.txt, memoryLeak.txt, logs.txt at default system location – “C:\node-profiler-logs\”. The module logs an info message in the logs.txt file indicating that memory profiling started successfully. The module writes “heap memory usage” data to the memoryStats.txt file at times just after a garbage collection is run automatically in the Node.js runtime environment. If a memory leak is found by the module, it writes the leak information to memoryLeak.txt file. If any error occurs during the memory profiling process, the module logs the error message to logs.txt file.
 
 ![alt text](https://github.com/luvsharma19/node-memory-profiler/blob/main/img/image2.png?raw=true)
 
