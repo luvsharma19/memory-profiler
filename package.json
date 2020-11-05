@@ -1,7 +1,7 @@
 {
   "name": "@luvsharma1931/memory-profiler",
-  "version": "1.0.0",
-  "description": "Intelligent memory profiler for Node.js applications. A plug and play module.",
+  "version": "1.0.1",
+  "description": "Intelligent memory profiler for Node.js applications to provide memory leak and heap memory usage information",
   "main": "index.js",
   "scripts": {
     "build": "rimraf -rf dist && cross-env NODE_ENV=production webpack"
