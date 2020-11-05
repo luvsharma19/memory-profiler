@@ -1,6 +1,6 @@
 {
   "name": "@luvsharma1931/node-memory-profiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Intelligent memory profiler for Node.js applications. A plug and play module.",
   "main": "index.js",
   "scripts": {
