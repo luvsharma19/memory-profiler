@@ -1,7 +1,8 @@
 # node-memory-profiler: Intelligent memory profiler for Node.js applications to provide memory leak and heap memory usage informtion
 
 npm link - https://www.npmjs.com/package/@luvsharma1931/node-memory-profiler
-install command - npm i @luvsharma1931/node-memory-profiler
+
+installation - npm install @luvsharma1931/node-memory-profiler
 
 It is a plug and play module using Node.js which can be easily imported in your node.js application. This module provides fully automated memory profiling process for Node.js applications and does not require any manual intervention at all from developers. It also automatically creates report files for memory leak information and heap memory usage by the application which are saved at a default system location and can also be shared with teams. These files contain data in JSON format and can directly be used as a data source for visualization tools like Kibana or Graphana to show graphs and charts depicting the heap memory usage trends or memory leak trends for your Node.js applications. This module can run memory profiling for your application for ‘n’ number of days continuously without requiring any manual effort from developer. Also, it can be used to run memory profiling on production/release candidate builds(live deployments) created using CI/CD pipelines as it is easily imported with a single import statement and no complex integration is required at all.
 
