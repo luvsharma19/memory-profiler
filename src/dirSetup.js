@@ -1,5 +1,5 @@
 var FS = require("fs");
-var logPath = "C:/node-profiler-logs"
+var logPath = "C:/memory-profiler-logs"
 
 var createFolderStructure = function() {
     if (FS.existsSync(logPath)) {
