@@ -22,7 +22,7 @@
     "webpack-node-externals": "^1.7.2"
   },
   "homepage": "https://github.com/luvsharma19/memory-profiler",
-  "keywords": ["memory profiler", "memory profiling", "memory profiler for node.js",
+  "keywords": ["memory profiler", "memory-profiler", "memory profiling", "memory profiler for node.js",
      "memory usage", "node profiler", "profiler", "memory", "heap profiler",
      "heap usage", "heap stats", "memwatch", "memory-profiler","node-profiler"]
 }
