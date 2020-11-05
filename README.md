@@ -13,6 +13,7 @@ Please make sure you have python version greater than or equal to 2.7 installed 
  https://www.python.org/downloads/release/python-2718/
 
 Install the node-memory-profiler using the below command:
+
 npm i @luvsharma1931/node-memory-profiler
 
 ![alt text](https://github.com/luvsharma19/node-memory-profiler/blob/main/img/image1.png?raw=true)
