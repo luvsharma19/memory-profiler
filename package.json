@@ -1,6 +1,6 @@
 {
   "name": "@luvsharma1931/memory-profiler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Intelligent memory profiler for Node.js applications to provide memory leak and heap memory usage information",
   "main": "index.js",
   "scripts": {
