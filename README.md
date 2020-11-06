@@ -3,7 +3,7 @@
 
 `npm install @luvsharma1931/memory-profiler`
 
-- It is a plug and play module created using Node.js which can be easily imported with a single import statement in your node.js application. 
+- It is a `plug and play module` created using Node.js which can be easily imported with a single import statement in your node.js application. 
 - This module provides `fully automated memory profiling` process for Node.js applications and does not require any manual intervention at all from developers.
 - It also automatically `creates report files for memory leak information and heap memory usage` by the application which are saved at a default system location and can also be shared with teams.
 
