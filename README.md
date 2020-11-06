@@ -38,8 +38,8 @@ How does this plug n play module works?
 - If a ``memory leak`` is found by the module, it writes the leak information to memoryLeak.txt file. If any error occurs during the memory profiling process, the module logs the error message to logs.txt file.
 - The module logs an info message in the logs.txt file indicating that memory profiling started successfully.
 
-![alt text](https://github.com/luvsharma19/memory-profiler/blob/main/img/image2.png?raw=true)
+![alt text](https://github.com/luvsharma19/memory-profiler/blob/main/img/image1.png?raw=true)
 
-![alt text](https://github.com/luvsharma19/memory-profiler/blob/main/img/image3.png?raw=true)
+![alt text](https://github.com/luvsharma19/memory-profiler/blob/main/img/image2.png?raw=true)
 
 Please feel free to provide you feedback and contribute to this project by creating a pull request. You can also reach me via email - luvsharma1931@yahoo.com
