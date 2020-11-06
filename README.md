@@ -42,4 +42,4 @@ How does this plug n play module works?
 
 ![alt text](https://github.com/luvsharma19/memory-profiler/blob/main/img/image2.png?raw=true)
 
-Please feel free to provide you feedback and contribute to this project by creating a pull request. You can also reach me via email - luvsharma1931@yahoo.com
+Please feel free to provide your feedback and contribute to this project by creating a pull request. You can also reach me via email - luvsharma1931@yahoo.com
