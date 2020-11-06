@@ -1,6 +1,6 @@
 `memory-profiler`: Intelligent memory profiler for Node.js applications to provide memory leak and heap memory usage information
 ============================================================
-npm link - https://www.npmjs.com/package/@luvsharma1931/memory-profiler
+`npm link -` https://www.npmjs.com/package/@luvsharma1931/memory-profiler
 
 `npm install @luvsharma1931/memory-profiler`
 
